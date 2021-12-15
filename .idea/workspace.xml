@@ -1,7 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06fbbac5-fcf7-4ac5-895e-9aab75fcbf99" name="Default Changelist" comment="" />
+    <list default="true" id="06fbbac5-fcf7-4ac5-895e-9aab75fcbf99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/ncepu/Sol_18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/ncepu/Sol_383.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/ncepu/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BackTracking/Sol131.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BackTracking/Sol17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BackTracking/Sol216.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BackTracking/Sol39.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BackTracking/Sol40.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BackTracking/Sol46.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BackTracking/Sol47.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BackTracking/Sol491.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BackTracking/Sol77.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BackTracking/Sol78.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BackTracking/Sol90.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BackTracking/Sol93.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/Sol100.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/Sol101.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/Sol102.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/Sol104.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/Sol107.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/Sol110.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/Sol111.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/Sol112.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/Sol113.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/Sol222.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/Sol226.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/Sol257.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/Sol404.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/Sol513.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/Sol559.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/Sol572.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/Sol94.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/BinaryTree/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/DynamicProgramming/BagProblem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/DynamicProgramming/Sol322.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/DynamicProgramming/Sol343.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/DynamicProgramming/Sol509.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/DynamicProgramming/Sol62.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/DynamicProgramming/Sol63.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/DynamicProgramming/Sol70.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/DynamicProgramming/Sol746.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/DynamicProgramming/Sol96.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/LinkedList/Interview02_07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/LinkedList/LRUCache$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/LinkedList/LRUCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/LinkedList/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/LinkedList/Sol142.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/LinkedList/Sol19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/LinkedList/Sol203.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/LinkedList/Sol206.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/LinkedList/Sol21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/LinkedList/Sol23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/LinkedList/Sol24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/pratice/LinkedList/Sol707.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/shopee/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/shopee/Solution2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/shopee/Solution3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/com/sorting/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BackTracking/Sol131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BackTracking/Sol17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BackTracking/Sol216.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BackTracking/Sol39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BackTracking/Sol40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BackTracking/Sol46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BackTracking/Sol47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BackTracking/Sol491.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BackTracking/Sol77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BackTracking/Sol78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BackTracking/Sol90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BackTracking/Sol93.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol222.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol226.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol257.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol513.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol559.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol572.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/BinaryTree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/BagProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol213.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol309.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol322.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol343.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol509.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol746.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/LinkedList/Interview02_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/LinkedList/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/LinkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/LinkedList/Sol142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/LinkedList/Sol19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/LinkedList/Sol203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/LinkedList/Sol206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/LinkedList/Sol21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/LinkedList/Sol23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/LinkedList/Sol24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pratice/LinkedList/Sol707.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shopee/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shopee/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shopee/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sorting/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/ncepu/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/ncepu/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/ncepu/Sol_141$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/ncepu/Sol_141$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/ncepu/Sol_141.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/ncepu/Sol_141.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/ncepu/Sol_21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/ncepu/Sol_21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/ncepu/Sol_27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/ncepu/Sol_27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/ncepu/Sol_516.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/ncepu/Sol_516.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/ncepu/Sol_704.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/ncepu/Sol_704.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/netease/Sol01_Hashmap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/netease/Sol_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/netease/Sol_02$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/netease/Sol_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/netease/Sol_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/netease/Sol_04_Brutal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/netease/Sol_07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/netease/Sol_09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/netease/Sol_15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/netease/Sol_20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/netease/Sol_206$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/netease/Sol_206.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/netease/Sol_45.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/netease/Sol_53.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/netease/Sol_92$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/netease/Sol_92.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ncepu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ncepu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ncepu/Sol_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ncepu/Sol_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ncepu/Sol_704.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ncepu/Sol_704.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/netease/Sol01_Hashmap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/netease/Sol_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/netease/Sol_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/netease/Sol_03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/netease/Sol_04_Brutal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/netease/Sol_07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/netease/Sol_09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/netease/Sol_15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/netease/Sol_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/netease/Sol_206.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/netease/Sol_45.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/netease/Sol_53.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/netease/Sol_92.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,47 +174,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Sol509.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol509.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sol70.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol70.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sol746.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol746.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Sol62.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol62.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
               <caret line="16" column="49" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sol63.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol63.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -69,26 +195,62 @@
       <file leaf-file-name="BagProblem.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/BagProblem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-242">
+            <state relative-caret-position="114">
               <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sol416.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol416.java">
+      <file leaf-file-name="Sol198.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol198.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sol322.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol322.java">
+      <file leaf-file-name="Sol213.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol213.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+            <state relative-caret-position="399">
+              <caret line="21" column="9" selection-start-line="19" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sol121.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol121.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sol122.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol122.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sol309.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol309.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sol123.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol123.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -122,12 +284,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol101.java" />
-        <option value="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol100.java" />
-        <option value="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol572.java" />
-        <option value="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol104.java" />
-        <option value="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol104.java" />
-        <option value="$PROJECT_DIR$/src/com/pratice/BinaryTree/Node.java" />
         <option value="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol559.java" />
         <option value="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol111.java" />
         <option value="$PROJECT_DIR$/src/com/pratice/BinaryTree/Sol222.java" />
@@ -173,6 +329,12 @@
         <option value="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol343.java" />
         <option value="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/BagProblem.java" />
         <option value="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol416.java" />
+        <option value="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol198.java" />
+        <option value="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol213.java" />
+        <option value="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol122.java" />
+        <option value="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol309.java" />
+        <option value="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol121.java" />
+        <option value="$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol123.java" />
       </list>
     </option>
   </component>
@@ -197,7 +359,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,6 +404,7 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -262,6 +424,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pratice.DynamicProgramming" />
       <recent name="com.pratice.BinaryTree" />
       <recent name="com.pratice" />
       <recent name="com.ncepu" />
@@ -392,6 +555,9 @@
       <workItem from="1638608546095" duration="5910000" />
       <workItem from="1638708790042" duration="10826000" />
       <workItem from="1638752804453" duration="4282000" />
+      <workItem from="1639046599782" duration="745000" />
+      <workItem from="1639108629285" duration="8756000" />
+      <workItem from="1639572715977" duration="2624000" />
     </task>
     <servers />
   </component>
@@ -404,7 +570,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="246900000" />
+    <option name="totallyTimeSpent" value="259025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -412,7 +578,6 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
@@ -420,11 +585,11 @@
       <window_info anchor="right" id="Maven Projects" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3391494" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3391494" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32801595" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33848614" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3496802" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -432,6 +597,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -474,48 +640,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/pratice/BackTracking/Sol216.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pratice/BackTracking/Sol78.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol62.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ncepu/Sol_05_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pratice/BackTracking/Sol40.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pratice/BackTracking/Sol39.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pratice/BackTracking/Sol90.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
@@ -751,9 +875,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="31" column="13" selection-start-line="29" selection-start-column="12" selection-end-line="31" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -800,6 +921,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol343.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol416.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/BagProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol198.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol213.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="9" selection-start-line="19" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol96.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -811,24 +961,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol343.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol309.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+        <state relative-caret-position="285">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/BagProblem.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol121.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-242">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        <state relative-caret-position="57">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol416.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol122.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="342">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pratice/DynamicProgramming/Sol123.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
         </state>
       </provider>
     </entry>
